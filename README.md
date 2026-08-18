@@ -74,5 +74,5 @@ If you reference this work, please cite:
 
 ## Contact
 
+- **LinkedIn:** [Torjus Jåstad Knudsen](https://www.linkedin.com/in/torjus-jaastad-knudsen)
 - **GitHub:** [@torsaft](https://github.com/torsaft)
-<!-- Add LinkedIn / email here if you'd like recruiters to reach you. -->
